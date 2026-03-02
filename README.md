@@ -1,4 +1,4 @@
-# Gemini Real-Time Cost Anomaly Detector
+# Gemini Real-Time Cost Tracking
 
 > **Solving the Core Problem:** The primary pain point is that it can take up to 3 days to notice a $1,500 billing anomaly. Reducing that detection time from 3 days down to 5 minutes completely mitigates the risk of runaway AI costs.
 
